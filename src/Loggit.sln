@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loggit", "Loggit\Loggit.csproj", "{93E4D2DC-B2B5-4C3F-A280-20996F5F963C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loggit.Database", "Loggit.Database\Loggit.Database.csproj", "{79A887D6-3E0C-4EFA-835A-A2A1F302CBA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loggit.CLI", "Loggit.CLI\Loggit.CLI.csproj", "{15F39750-5331-4BE8-B904-E9A98A485542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{93E4D2DC-B2B5-4C3F-A280-20996F5F963C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E4D2DC-B2B5-4C3F-A280-20996F5F963C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E4D2DC-B2B5-4C3F-A280-20996F5F963C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A887D6-3E0C-4EFA-835A-A2A1F302CBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A887D6-3E0C-4EFA-835A-A2A1F302CBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A887D6-3E0C-4EFA-835A-A2A1F302CBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A887D6-3E0C-4EFA-835A-A2A1F302CBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F39750-5331-4BE8-B904-E9A98A485542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F39750-5331-4BE8-B904-E9A98A485542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F39750-5331-4BE8-B904-E9A98A485542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F39750-5331-4BE8-B904-E9A98A485542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
